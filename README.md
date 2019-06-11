@@ -1,9 +1,9 @@
-# SpeechTabController
+# chrome-speechControlTabs
 
 ![Build Status](https://img.shields.io/badge/language-javascript-brightgreen.svg)
 ![Build Status](https://img.shields.io/badge/platform-chrome-yellow.svg)
 
-Chrome extension to control chrome tabs with voice
+Chrome extension to control chrome tabs by speech
 
 ## Description
 `SpeechTabController` is a chrome extension to control tabs in a chrome browser with voice.
