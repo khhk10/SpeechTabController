@@ -1,4 +1,4 @@
-# chrome-speechControlTabs
+# chrome-speech-control-tabs
 
 ![Build Status](https://img.shields.io/badge/language-javascript-brightgreen.svg)
 ![Build Status](https://img.shields.io/badge/platform-chrome-yellow.svg)
